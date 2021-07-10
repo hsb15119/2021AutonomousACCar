@@ -19,5 +19,8 @@
 ## References
 ### Raspberry pi tutorial 
 - https://pythonprogramming.net/robot-remote-control-car-with-the-raspberry-pi/
+- https://www.youtube.com/watch?v=kiIOS3Pxt6Y&t=113s
+- 
+### steering theory
 
 ### projects management
